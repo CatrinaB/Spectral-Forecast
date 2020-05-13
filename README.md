@@ -30,7 +30,7 @@ In the end, we print the matrix with all the similarity indexes and we trace a p
 ![output patient 1](images/output_p1.png)
 ![output plot](images/output_plot.png)
 
-####Output data####
+#### Output data ####
 To illustrate how our algorithm works, we ran several tests with diferent data sets.
 
 **Test 1**
